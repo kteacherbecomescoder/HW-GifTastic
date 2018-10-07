@@ -2,18 +2,25 @@
 
 ## Summary and Goals
 
-The goal of this project was to create a game that would run in the browser and feature dynamically updated HTML, CSS powered by our JavaScript code. The computer generates a random letter and the player has 9 guesses to find the correct answer. As you play, the game records: Current Guesses, Guesses Left, Wins and Losses. The game resets each time after the 9 guesses are achieved or the correct answer is chosen. 
+GifTastic is a web application that utilizes the GIPHY API. The application has the ability to search for gifs based on search criteria. 
+The GifTastic application searches the GIPHY API to find gifs by pressing search buttons. There is a selection of buttons that are pre-defined, but users can create other buttons through the form on the right. Gifs are presented with their rating and can be played by pressing them.
 
 Ths project was developed for the University of Arizona Coding Bootcamp
 
-View Project Here:   https://kteacherbecomescoder.github.io/HW-Psychic-Game/
+View Project Here:   https://kteacherbecomescoder.github.io/HW-GifTastic/
 
 
 ## Technologies Used:
-Hypertext Markup Language (HTML)
+HTML
 
-Cascading Style Sheets (CSS)
+CSS
 
 JavaScript
 
-Meyerweb Reset CSS
+Bootstrap
+
+jQuery
+
+GIPHY API
+
+

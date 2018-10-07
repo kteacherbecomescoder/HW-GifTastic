@@ -10,7 +10,7 @@ Ths project was developed for the University of Arizona Coding Bootcamp
 View Project Here:   https://kteacherbecomescoder.github.io/HW-GifTastic/
 
 
-## Technologies Used:
+### Technologies Used:
 HTML
 
 CSS
